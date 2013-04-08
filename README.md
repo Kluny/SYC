@@ -1,5 +1,5 @@
 **The Saanich Youth Council**
-*Community Engagement Project**
+**Community Engagement Project**
 
 - Shannon Graham, Project Manager
 - Kameron Chow, Developer
